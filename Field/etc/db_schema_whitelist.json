@@ -1,0 +1,13 @@
+{
+    "new_table": {
+        "column": {
+            "id": true,
+            "author_name": true,
+            "email": true,
+            "description": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
